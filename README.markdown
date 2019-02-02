@@ -76,6 +76,6 @@
 
 ![Plot 1](plots/50_state_comparison_fiscal_health_versus_fiscal_note_use.jpg)
 
-![Plot 2](plots/50_state_comparison_fiscal_health_versus_fiscal_note_use.jpg)
+![Plot 2](plots/50_state_comparison_boxplot.jpg)
 
 ## Helpful Resources
