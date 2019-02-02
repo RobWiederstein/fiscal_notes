@@ -13,13 +13,22 @@
 
 ## OMB Cost Estimates
 
-## Fiscal Notes in Kentucky
+## Fiscal Notes in Kentucky Statute
 
 KRS 6.950 defines a "fiscal note" as a realistic statement of the estimated effect on expenditures or revenue of local government in implementing" an Act of the General Assembly.
 
 KRS 6.955 requires a fiscal note to be prepared and attached to any bill "which relates to any aspect of local government or any service provided thereby . . . ."  However, the requirement may be waived if 2/3 of the members elected to vote waive its requirement.  A certification by the clerk must be attached to the bill.  If waived in one chamber--either the House or the Senate, the second chamber may waive the fiscal note by a simple majority vote.  Additionally, any executive order by the Governor that relates **any aspect** of local government or **any service** shall not be issued unless a fiscal note has been prepared.
 
 KRS 6.965 gives the director of the Legislative Research Commission the discretion to decide whether a bill or executive order is a state mandate and permits the director to seek a finding from the Attorney General on the issue.  Any bill that is amended requires that fiscal note be updated to account for the change.
+
+## Fiscal Notes in Kentucky House
+
+[Kentucky House Rule 52](statutes/2019-01-08_house_rules_pages_32_33.pdf) gives the details on when a fiscal note or statement is required. The sponsor of a bill may request LRC to prepare a "fiscal statement". But the LRC is required to prepare one if a bill would fiscally affect (1) local governments, (2) any public retirement system, or (3) state or local corrections service. "The chair of the committee to which a bill has been referred may require that a fiscal statement be attached to the bill prior to posting. The chair or a majority of the committee to which a bill has been referred may require that a fiscal statement be attached to the bill, or amendment thereof, prior to final committee action."
+
+Finally, "[m]embers may require, by majority vote, that a fiscal statement be attached to any bill or amendment on the Orders of the Day relating to fiscal matters herein described. In that instance, the fiscal statement shall be attached to the bill, or amendment thereof, prior to final consideration of the bill on the floor of the House."
+
+[Kentucky House Rule 53](statutes/2019-01-08_house_rules_pages_32_33.pdf) states that "any member proposing an **amendment** which relates to fiscal matters described in Rule 52 may cause a fiscal statement to be prepared. A fiscal statement shall be considered a public document upon introduction of the bill or amendment for which it was prepared."
+
 
 ## 50 State Comparison of Fiscal Notes
 
