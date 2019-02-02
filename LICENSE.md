@@ -1,0 +1,1 @@
+Except where otherwise noted, content in this repo is licensed under a Creative Commons Attribution 4.0 International license.  Full text of the license can be found [here](https://creativecommons.org/licenses/by/4.0/legalcode).
