@@ -9,11 +9,17 @@
 
 <!-- /TOC -->
 
-## Open Note Portal for Washington State
+## Fiscal Note Portal for Washington State
 
 ## OMB Cost Estimates
 
 ## Fiscal Notes in Kentucky
+
+KRS 6.950 defines a "fiscal note" as a realistic statement of the estimated effect on expenditures or revenue of local government in implementing" an Act of the General Assembly.
+
+KRS 6.955 requires a fiscal note to be prepared and attached to any bill "which relates to any aspect of local government or any service provided thereby . . . ."  However, the requirement may be waived if 2/3 of the members elected to vote waive its requirement.  A certification by the clerk must be attached to the bill.  If waived in one chamber--either the House or the Senate, the second chamber may waive the fiscal note by a simple majority vote.  Additionally, any executive order by the Governor that relates **any aspect** of local government or **any service** shall not be issued unless a fiscal note has been prepared.
+
+KRS 6.965 gives the director of the Legislative Research Commission the discretion to decide whether a bill or executive order is a state mandate and permits the director to seek a finding from the Attorney General on the issue.  Any bill that is amended requires that fiscal note be updated to account for the change.
 
 ## 50 State Comparison of Fiscal Notes
 
