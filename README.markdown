@@ -49,6 +49,8 @@ Finally, "[m]embers may require, by majority vote, that a fiscal statement be at
 
 Fiscal notes are also required upon the promulgation of an administrative regulation and must consider the cost to state and local government.  [KRS 13A.250](statutes/1984-04-13_krs_013A_250.pdf).  The proposed regulation must be accompanied by a "fiscal note."  The statute specifically identifies items that must be included:  (1) the number of the administrative regulation, (2) contact information, (3) the government subdivisions affected, (4) the service to which the regulation relates along with the legal authority  that mandates the service, (5) estimated fiscal impact for the **first full year**.  "If specific dollar estimates cannot be determined, the administrative body shall provide a brief narrative of the fiscal impact."
 
+![A KDE Fiscal Note Published in the Administrative Registrar of Kentucky](resources/2019-01-01-ky_admin_register_page_2117.pdf)
+
 ## 50 State Comparison of Fiscal Notes
 
 | fiscal.rank | state          | state.abb | Prepared.for.all.most.bills | Prepared.by.non.partisan.agency | budget.impacts.for...1.year | budget.impacts...4.years | revisions.during.bill.process | published.on.the.web | total | mercatus.fiscal.idx |
