@@ -51,6 +51,8 @@ Fiscal notes are also required upon the promulgation of an administrative regula
 
 ![A KDE Fiscal Note Published in the Administrative Registrar of Kentucky](img/2019-02-03_fiscal_note_example_01.png)
 
+<img src="img/2019-02-03_fiscal_note_example_01.png" alt="fiscal note example" width = 50%>
+
 ## 50 State Comparison of Fiscal Notes
 
 | fiscal.rank | state          | state.abb | Prepared.for.all.most.bills | Prepared.by.non.partisan.agency | budget.impacts.for...1.year | budget.impacts...4.years | revisions.during.bill.process | published.on.the.web | total | mercatus.fiscal.idx |
