@@ -1,8 +1,13 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-	- [Open Note Portal for Washington State](#open-note-portal-for-washington-state)
+- [Fiscal Notes](#fiscal-notes)
+	- [Fiscal Note Portal for Washington State](#fiscal-note-portal-for-washington-state)
 	- [OMB Cost Estimates](#omb-cost-estimates)
-	- [Fiscal Notes in Kentucky](#fiscal-notes-in-kentucky)
+	- [Fiscal Notes in Kentucky Legislature](#fiscal-notes-in-kentucky-legislature)
+		- [Statutes](#statutes)
+		- [Kentucky House Rules](#kentucky-house-rules)
+		- [Kentucky Senate Rules](#kentucky-senate-rules)
+	- [Fiscal Notes in Kentucky Agencies](#fiscal-notes-in-kentucky-agencies)
 	- [50 State Comparison of Fiscal Notes](#50-state-comparison-of-fiscal-notes)
 	- [Plot](#plot)
 	- [Helpful Resources](#helpful-resources)
