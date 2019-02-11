@@ -1,5 +1,4 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
 - [Fiscal Notes](#fiscal-notes)
 	- [Fiscal Note Portal for Washington State](#fiscal-note-portal-for-washington-state)
 	- [OMB Cost Estimates](#omb-cost-estimates)
@@ -11,12 +10,11 @@
 	- [50 State Comparison of Fiscal Notes](#50-state-comparison-of-fiscal-notes)
 	- [Plot](#plot)
 	- [Helpful Resources](#helpful-resources)
-
 <!-- /TOC -->
 
 # Fiscal Notes
 
-Kentucky uses multiple terms in describing the fiscal impact of legislative and agency actions with the most common being "fiscal note" but others used interchangeably as well like "cost analysis", "cost estimate."
+Kentucky uses multiple terms in describing the fiscal impact of legislative and agency actions with the most common being "fiscal note" but others used interchangeably as well like "cost analysis", "cost estimate", "fiscal impact statement", and "economic impact statement".
 
 
 ## Fiscal Note Portal for Washington State
@@ -112,6 +110,5 @@ Fiscal notes are also required upon the promulgation of an administrative regula
 
 ![Plot 1](plots/50_state_comparison_fiscal_health_versus_fiscal_note_use.jpg)
 
-![Plot 2](plots/50_state_comparison_boxplot.jpg)
 
 ## Helpful Resources
