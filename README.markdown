@@ -15,6 +15,7 @@
 		- [Utah](#utah)
 		- [Maryland](#maryland)
 		- [Texas](#texas)
+		- [Iowa](#iowa)
 	- [Helpful Resources](#helpful-resources)
 
 <!-- /TOC -->
@@ -163,6 +164,10 @@ Maryland follows 6 of 6 best practices.  The Maryland [statute](statutes/2009-01
 ### Texas
 
 Texas follows 6 of 6 of the best practices.  Its [statute](statutes/2009-01-01_texas_314_001_005.pdf) requires that five-year estimates be prepared.  The fiscal note is  "required on a bill or resolution" and "it must be attached  to the bill or resolution before a committee hearing on the bill or resolution may be conducted."  Texas uses a novel approach to estimating costs called "dynamic scoring".  To assess the accuracy of dynamic scoring, "on the fifth anniversary of the effective date of a bill that becomes law for which a dynamic fiscal impact statement was prepared under this section, the comptroller shall prepare and submit to the presiding officer of each house of the legislature a report that assesses the accuracy of the relevant fiscal note prepared for the bill and the accuracy of the relevant dynamic fiscal impact statement prepared for the bill." A sample fiscal note is included [here](fiscal_note_examples/2015-04-22_texas_sample_fiscal_note.pdf).
+
+### Iowa
+
+Iowa follows 6 of 6 of the best practices; however, its enactment is by Senate and House concurrent [resolution](statutes/2019-01-01_iowa_SCR3.pdf), rather than by statute.  There, a  fiscal note shall be attached to "any bill or joint resolution which reasonably could have an annual effect of at least one hundred thousand dollars or a combined total effect within five years after enactment of five hundred thousand dollars or more on the aggregate revenues, expenditures, or fiscal liability of the state or its subdivisions." A number of jurisdictions have dollar limit that triggers the preparation of a fiscal note.  The rule doesn't apply to the budget.  The projected window is for five years and specify the source of the information.  The fiscal note must state whether an accurate estimate can be made.  Additionally, a fiscal note may be requested if an amendment to the bill is made.
 
 
 
