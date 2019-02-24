@@ -153,12 +153,14 @@ Utah is ranked high for financial performance and follows 5 out of 6 best practi
 5. whether proposed bill will increase/decrease the regulatory burden;
 6. whether the regulator impact will be high, medium or low.
 
-In carrying out the analysis set forth above, the fiscaly analyst is given subpeona powers.
+In carrying out the analysis set forth above, the fiscal analyst is given subpeona powers.
 
 ### Maryland
 
-Maryland follows 6 of 6 best practices.  The Maryland [statute](statutes/2009-01-01_maryland_2_1505.pdf) does not allow for a committee to vote on a bill unless it is accompanied with a fiscal note, and if the bill affects the state pension system, it must be accompanied with an actuarial analysis.  The Executive Director is required to prepare a fiscal note for each bill. A fiscal note shall contain "an estimate of the fiscal impact of the bill on the revenues and
-expenditures of the State government and of local governments" for the year it becomes effective and the four years after that.  The fiscal note is to clearly identify if the bill is a local mandate and an estimate of the impact.  Souces used in the drafting of the fiscal note must be dislosed.
+Maryland follows 6 of 6 best practices.  The Maryland [statute](statutes/2009-01-01_maryland_2_1505.pdf) does not allow for a committee to vote on a bill unless it is accompanied with a fiscal note, and if the bill affects the state pension system, it must be accompanied with an actuarial analysis.  The Executive Director is required to prepare a fiscal note for each bill. A fiscal note shall contain "an estimate of the fiscal impact of the bill on the revenues and expenditures of the State government and of local governments" for the year it becomes effective and the four years after that.  The fiscal note is to clearly identify if the bill is a local mandate and an estimate of the impact.  Sources used in the drafting of the fiscal note must be disclosed. A bill may be introduced without a fiscal note, and the fact that a bill failed to have a fiscal note cannot be used to attack the underlying statute's validity.
+
+
+
 
 
 
