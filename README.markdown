@@ -14,6 +14,7 @@
 	- [Sample states](#sample-states)
 		- [Utah](#utah)
 		- [Maryland](#maryland)
+		- [Texas](#texas)
 	- [Helpful Resources](#helpful-resources)
 
 <!-- /TOC -->
@@ -158,6 +159,10 @@ In carrying out the analysis set forth above, the fiscal analyst is given subpeo
 ### Maryland
 
 Maryland follows 6 of 6 best practices.  The Maryland [statute](statutes/2009-01-01_maryland_2_1505.pdf) does not allow for a committee to vote on a bill unless it is accompanied with a fiscal note, and if the bill affects the state pension system, it must be accompanied with an actuarial analysis.  The Executive Director is required to prepare a fiscal note for each bill. A fiscal note shall contain "an estimate of the fiscal impact of the bill on the revenues and expenditures of the State government and of local governments" for the year it becomes effective and the four years after that.  The fiscal note is to clearly identify if the bill is a local mandate and an estimate of the impact.  Sources used in the drafting of the fiscal note must be disclosed. A bill may be introduced without a fiscal note, and the fact that a bill failed to have a fiscal note cannot be used to attack the underlying statute's validity.
+
+### Texas
+
+Texas follows 6 of 6 of the best practices.  Its [statute](statutes/2009-01-01_texas_314_001_005.pdf) requires that five-year estimates be prepared.  The fiscal note is  "required on a bill or resolution" and "it must be attached  to the bill or resolution before a committee hearing on the bill or resolution may be conducted."  Texas uses a novel approach to estimating costs called "dynamic scoring".  To assess the accuracy of dynamic scoring, "on the fifth anniversary of the effective date of a bill that becomes law for which a dynamic fiscal impact statement was prepared under this section, the comptroller shall prepare and submit to the presiding officer of each house of the legislature a report that assesses the accuracy of the relevant fiscal note prepared for the bill and the accuracy of the relevant dynamic fiscal impact statement prepared for the bill." A sample fiscal note is included [here](fiscal_note_examples/2015-04-22_texas_sample_fiscal_note.pdf).
 
 
 
