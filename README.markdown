@@ -11,6 +11,8 @@
 	- [Fiscal Notes in Kentucky Agencies](#fiscal-notes-in-kentucky-agencies)
 	- [50 State Comparison of Fiscal Notes](#50-state-comparison-of-fiscal-notes)
 	- [Plot](#plot)
+	- [Sample states](#sample-states)
+		- [Utah](#utah)
 	- [Helpful Resources](#helpful-resources)
 
 <!-- /TOC -->
@@ -136,6 +138,23 @@ To than end, the CBPP prepared a table as to what states used these practices in
 The CBPP's table was then combined with data from the [Mercatus Center](https://www.mercatus.org).
 
 ![Plot 1](plots/50_state_comparison_fiscal_health_versus_fiscal_note_use.jpg)
+
+## Sample states
+
+### Utah
+
+Utah is ranked high for financial performance and follows 4 out of 5 best practices.  There, the "Office of the Legislative Fiscal Analyst" was created within the legislature.  According to Utah [statute](statutes/2018-05-08_utah_36_12_12.pdf), the fiscal analyst is to prepare "fiscal estimates" on **all** bills that reflect:
+
+1. potential state government revenue impacts;
+2. anticipated state government expenditure changes;
+3. anticipated expenditure changes for local governments;
+4. anticipated direct expenditure changes for state residents and businesses;
+5. whether proposed bill will increase/decrease the regulatory burden;
+6. whether the regulator impact will be high, medium or low.
+
+
+
+
 
 
 
