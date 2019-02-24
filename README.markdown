@@ -13,6 +13,7 @@
 	- [Plot](#plot)
 	- [Sample states](#sample-states)
 		- [Utah](#utah)
+		- [Maryland](#maryland)
 	- [Helpful Resources](#helpful-resources)
 
 <!-- /TOC -->
@@ -143,7 +144,7 @@ The CBPP's table was then combined with data from the [Mercatus Center](https://
 
 ### Utah
 
-Utah is ranked high for financial performance and follows 4 out of 5 best practices.  There, the "Office of the Legislative Fiscal Analyst" was created within the legislature.  According to Utah [statute](statutes/2018-05-08_utah_36_12_12.pdf), the fiscal analyst is to prepare "fiscal estimates" on **all** bills that reflect:
+Utah is ranked high for financial performance and follows 5 out of 6 best practices.  There, the "Office of the Legislative Fiscal Analyst" was created within the legislature.  According to Utah [statute](statutes/2018-05-08_utah_36_12_12.pdf), the fiscal analyst is to prepare "fiscal estimates" on **all** bills that reflect:
 
 1. potential state government revenue impacts;
 2. anticipated state government expenditure changes;
@@ -151,6 +152,15 @@ Utah is ranked high for financial performance and follows 4 out of 5 best practi
 4. anticipated direct expenditure changes for state residents and businesses;
 5. whether proposed bill will increase/decrease the regulatory burden;
 6. whether the regulator impact will be high, medium or low.
+
+In carrying out the analysis set forth above, the fiscaly analyst is given subpeona powers.
+
+### Maryland
+
+Maryland follows 6 of 6 best practices.  The Maryland [statute](statutes/2009-01-01_maryland_2_1505.pdf) does not allow for a committee to vote on a bill unless it is accompanied with a fiscal note, and if the bill affects the state pension system, it must be accompanied with an actuarial analysis.  The Executive Director is required to prepare a fiscal note for each bill. A fiscal note shall contain "an estimate of the fiscal impact of the bill on the revenues and
+expenditures of the State government and of local governments" for the year it becomes effective and the four years after that.  The fiscal note is to clearly identify if the bill is a local mandate and an estimate of the impact.  Souces used in the drafting of the fiscal note must be dislosed.
+
+
 
 
 
