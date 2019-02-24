@@ -40,8 +40,9 @@ summary(fit.lm.2)
 #plot scatter plot
 library(ggplot2)
 p <- ggplot(df.4, aes(total, mercatus.fiscal.idx))
-p <- p + geom_text(label = df.4$state.abb, size = 2)
 p <- p + geom_smooth(method = "loess")
+p <- p + geom_label(label = df.4$state.abb, size = 1.5)
+
 p <- p + scale_x_continuous(name = "fiscal.note.totals")
 p <- p + ggtitle("50 States Comparison")
 p <- p + theme(plot.title = element_text(hjust = 0.5))

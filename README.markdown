@@ -1,5 +1,7 @@
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
 - [Fiscal Notes](#fiscal-notes)
+	- [Terminology](#terminology)
 	- [Fiscal Note Portal for Washington State](#fiscal-note-portal-for-washington-state)
 	- [OMB Cost Estimates](#omb-cost-estimates)
 	- [Fiscal Notes in Kentucky Legislature](#fiscal-notes-in-kentucky-legislature)
@@ -10,12 +12,26 @@
 	- [50 State Comparison of Fiscal Notes](#50-state-comparison-of-fiscal-notes)
 	- [Plot](#plot)
 	- [Helpful Resources](#helpful-resources)
+
 <!-- /TOC -->
 
 # Fiscal Notes
 
-Kentucky uses multiple terms in describing the fiscal impact of legislative and agency actions with the most common being "fiscal note" but others used interchangeably as well like "cost analysis", "cost estimate", "fiscal impact statement", and "economic impact statement".
+## Terminology
 
+Kentucky law includes multiple terms when describing the economic impact of legislative and agency actions with the most common being "fiscal note" but there are others used as well like "cost analysis", "cost estimate", "fiscal impact statement", and "economic impact statement". The terms are not interchangeable and can have very specific meanings.  Below is a list of the different analysis undertaken to determine the economic impact to the Commonwealth of Kentucky:
+
+- "Fiscal Statements".   Pursuant to House and Senate Rules, the staff of the Legislative Research Commission prepare fiscal statements that describe the financial implications of particular bills if such legislation were to be enacted. Fiscal statements consist of certain components that are prepared as necessary depending upon the subject matter and scope of the legislation. The components of fiscal statements are below.
+
+- "Fiscal Notes" describe how legislation affects the revenues or expenditures of state government generally. Fiscal notes are prepared upon the request of the sponsor of a bill, the request of the chair of the standing committee to which the bill is referred, or the request of that committee by vote. Fiscal Notes are requested through the Office of Budget Review.
+
+- "Local Mandate Statements" describe how legislation fiscally affects local governments through imposition of a local mandate. LRC staff automatically prepare local mandate statements when drafting bills containing such mandates.
+
+- "Actuarial Analysis Statements" describe how legislation changes the financial liability of any public retirement system administered by an agency of state government. LRC staff automatically cause actuarial analysis statements to be prepared by the public retirement systems when drafting bills pertaining to this subject matter.
+
+- "Corrections Impact Statements" describe how legislation fiscally affects state or local corrections services in a significant manner. LRC staff automatically cause corrections impact statements to be prepared by the Justice Cabinet when drafting bills pertaining to this subject matter.
+
+- "Health Benefit Analyses" describe whether legislation contains a mandated health benefit for purposes of health insurance coverage and the estimated financial effect of the addition of the benefit within health insurance coverage. LRC staff identify legislation for potential health benefit analysis by the Department of Insurance.
 
 ## Fiscal Note Portal for Washington State
 
@@ -108,7 +124,20 @@ Fiscal notes are also required upon the promulgation of an administrative regula
 
 ## Plot
 
+The table above was constructed from a publication authored by the [Center on Budget and Policy Priorities](https://www.cbpp.org) ("CBPP"). The organization published a [guide](resources/2015-11-24_cbpp_better_cost_estimates_table_2.pdf) entitled, "Better Cost Estimates, Better Budgets:  Improved Fiscal Notes Would Help States Make More Informed Decisions." The author listed five best practices in the use of fiscal notes:
+1. Prepare fiscal notes for all proposals;
+2. Free estimates from partisan pressure;
+3. Project long term impact;
+4. Revise estimates as needed; and
+5. Post fiscal notes online.
+
+To than end, the CBPP prepared a table as to what states used these practices in drafting a fiscal note. Those states that were using one or more of the above practices were then added up and assigned the variable "total."
+
+The CBPP's table was then combined with data from the [Mercatus Center](https://www.mercatus.org).
+
 ![Plot 1](plots/50_state_comparison_fiscal_health_versus_fiscal_note_use.jpg)
+
+
 
 
 ## Helpful Resources
