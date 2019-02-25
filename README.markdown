@@ -16,6 +16,7 @@
 		- [Maryland](#maryland)
 		- [Texas](#texas)
 		- [Iowa](#iowa)
+		- [Oregon](#oregon)
 	- [Helpful Resources](#helpful-resources)
 
 <!-- /TOC -->
@@ -167,7 +168,11 @@ Texas follows 6 of 6 of the best practices.  Its [statute](statutes/2009-01-01_t
 
 ### Iowa
 
-Iowa follows 6 of 6 of the best practices; however, its enactment is by Senate and House concurrent [resolution](statutes/2019-01-01_iowa_SCR3.pdf), rather than by statute.  There, a  fiscal note shall be attached to "any bill or joint resolution which reasonably could have an annual effect of at least one hundred thousand dollars or a combined total effect within five years after enactment of five hundred thousand dollars or more on the aggregate revenues, expenditures, or fiscal liability of the state or its subdivisions." A number of jurisdictions have dollar limit that triggers the preparation of a fiscal note.  The rule doesn't apply to the budget.  The projected window is for five years and specify the source of the information.  The fiscal note must state whether an accurate estimate can be made.  Additionally, a fiscal note may be requested if an amendment to the bill is made.
+Iowa follows 6 of 6 of the best practices; however, its enactment is by Senate and House concurrent [resolution](statutes/2019-01-01_iowa_SCR3.pdf), rather than by statute.  There, a  fiscal note shall be attached to "any bill or joint resolution which reasonably could have an annual effect of at least one hundred thousand dollars or a combined total effect within five years after enactment of five hundred thousand dollars or more on the aggregate revenues, expenditures, or fiscal liability of the state or its subdivisions." A number of jurisdictions have dollar limit that triggers the preparation of a fiscal note.  The rule doesn't apply to the budget.  The projected window is for five years and specify the source of the information.  The fiscal note must state whether an accurate estimate can be made.  Additionally, a fiscal note may be requested if an amendment to the bill is made. A sample Iowa fiscal not is included [here](fiscal_note_examples/2019-02-20_iowa_fiscal_note_example.pdf).
+
+### Oregon
+
+Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute](statutes/2016-04-01_oregon_173.025.pdf) provides that the "Legislative Fiscal Officer" shall prepare a "fiscal impact statement for each measure reported out of committee . . . that could have an effect on expenditures." The revenue impact statement must include three consecutive biennia, beginning with the current one.  Another statute provides greater detail for bills that create a new crime or change penalties.  A criminal justice bill would require costs to be projected over 10 years.  
 
 
 
