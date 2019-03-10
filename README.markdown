@@ -179,14 +179,14 @@ Iowa follows 6 of 6 of the best practices; however, its enactment is by Senate a
 Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute](statutes/2016-04-01_oregon_173.025.pdf) provides that the "Legislative Fiscal Officer" shall prepare a "fiscal impact statement for each measure reported out of committee . . . that could have an effect on expenditures." The revenue impact statement must include three consecutive biennia, beginning with the current one.  Another statute provides greater detail for bills that create a new crime or change penalties.  A criminal justice bill would require costs to be projected over 10 years.
 
 ## Helpful Resources
-|                                        |                                                                             |                                 |
-|----------------------------------------|-----------------------------------------------------------------------------|---------------------------------|
-| organization                           | url                                                                         | summary                         |
-| Center for Budget & Policy Priorities  | https://www.cbpp.org                                                        | Tax analysis.                   |
-| Congressional Budget Office            | https://www.cbo.gov                                                         | Congressional "Fiscal Notes".   |
-| CBPP Better Cost Estimates             | resources/2015-11-24_cbpp_better_cost_estimates.pdf                         | Best practices in fiscal notes. |
-| Improving CBO Cost Estimates           | resources/2018-01-01_fifteen_ways_improve_cbo_cost_estimates.pdf            | Improve CBO Cost Estimates.     |
-| Public Budgeting Systems, 8th Ed.      | https://amzn.to/2NSuqmm                                                     | Textbook on public budgeting.   |
-| Phillip Joyce                          | https://www.publicpolicy.umd.edu/faculty/philip-joyce                       | Expert in public budgeting.     |
-| NCSL Understanding Fiscal Notes        | resources/2014-07-01_ncsl_fiscal_notes_final.pdf                            | Powerpoint presentation.        |
-| National Assoc. of Leg. Fiscal Offices | http://www.ncsl.org/legislators-staff/legislative-staff/fiscal-offices.aspx | Association.                    |
+| organization                              | url                                                                         | summary                         |
+|-------------------------------------------|-----------------------------------------------------------------------------|---------------------------------|
+| Center for Budget & Policy Priorities     | https://www.cbpp.org                                                        | Tax analysis.                   |
+| Congressional Budget Office               | https://www.cbo.gov                                                         | Congressional "Fiscal Notes".   |
+| CBPP Better Cost Estimates                | https://bit.ly/2TzX2pS                                                      | Best practices in fiscal notes. |
+| Improving CBO Cost Estimates              | https://bit.ly/2TL5umo                                                      | Improve CBO Cost Estimates.     |
+| Public Budgeting Systems, 8th Ed.         | https://amzn.to/2NSuqmm                                                     | Textbook on public budgeting.   |
+| Phillip Joyce                             | https://www.publicpolicy.umd.edu/faculty/philip-joyce                       | Expert in public budgeting.     |
+| NCSL Understanding Fiscal Notes           | resources/2014-07-01_ncsl_fiscal_notes_final.pdf                            | Powerpoint presentation.        |
+| National Assoc. of Leg. Fiscal Offices    | http://www.ncsl.org/legislators-staff/legislative-staff/fiscal-offices.aspx | Association.                    |
+| Fiscal Note Process in State Legislatures | https://bit.ly/2F2qk8r                                                      | Survey.                         |
