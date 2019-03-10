@@ -1,16 +1,17 @@
+![CBO Cost Benefit Search](img/2019-03-10_cbo_cost_benefit.png)
+[CBO Cost Estimate Data Base](https://www.cbo.gov/cost-estimates)
+
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Fiscal Notes](#fiscal-notes)
 	- [Terminology](#terminology)
-	- [Fiscal Note Portal for Washington State](#fiscal-note-portal-for-washington-state)
-	- [OMB Cost Estimates](#omb-cost-estimates)
 	- [Fiscal Notes in Kentucky Legislature](#fiscal-notes-in-kentucky-legislature)
 		- [Statutes](#statutes)
 		- [Kentucky House Rules](#kentucky-house-rules)
 		- [Kentucky Senate Rules](#kentucky-senate-rules)
 	- [Fiscal Notes in Kentucky Agencies](#fiscal-notes-in-kentucky-agencies)
 	- [50 State Comparison of Fiscal Notes](#50-state-comparison-of-fiscal-notes)
-	- [Plot](#plot)
+	- [Plot of Fiscal Note Best Practices to Fiscal Condition](#plot-of-fiscal-note-best-practices-to-fiscal-condition)
 	- [Sample states](#sample-states)
 		- [Utah](#utah)
 		- [Maryland](#maryland)
@@ -22,6 +23,17 @@
 <!-- /TOC -->
 
 # Fiscal Notes
+
+Fiscal notes are cost estimates of pending bills  in state legislatures.  For some legislators, they can be a critical component of whether the bill should be adopted.  In Kentucky, fiscal notes are prepared by the Legislative Research Commission (LRC) whereas they are prepared by the Congressional Budget Office (CBO) at the federal level.  An extensive [analysis](fiscal_note/resources/2015-11-24_cbpp_better_cost_estimates.pdf) of fiscal notes was undertaken by the Center for Budget and Policy Priorities (CBPP) where they identified six criteria as "best practices."
+
+The best practices were identified as
+1. Prepare fiscal notes for substantially all proposals (38 states + D.C.);
+2. Free estimates from partisan pressure (33 states + D.C.);
+3. Project long term impact (12 states + D.C.);
+4. Revise estimates as needed (27 states + D.C.); and
+5. Post fiscal notes online (46 states + D.C.).
+
+The goal of this writeup is identify whether Kentucky follows these best practices and whether they could be adopted to improve its long term financial sustainability.
 
 ## Terminology
 
@@ -39,10 +51,6 @@ Kentucky law includes multiple terms when describing the economic impact of legi
 
 - "Health Benefit Analyses" describe whether legislation contains a mandated health benefit for purposes of health insurance coverage and the estimated financial effect of the addition of the benefit within health insurance coverage. LRC staff identify legislation for potential health benefit analysis by the Department of Insurance.
 
-## Fiscal Note Portal for Washington State
-
-## OMB Cost Estimates
-
 ## Fiscal Notes in Kentucky Legislature
 
 ### Statutes
@@ -52,8 +60,6 @@ KRS 6.950 defines a "fiscal note" as a realistic statement of the estimated effe
 KRS 6.955 requires a fiscal note to be prepared and attached to any bill "which relates to any aspect of local government or any service provided thereby . . . ."  However, the requirement may be waived if 2/3 of the members elected to vote waive its requirement.  A certification by the clerk must be attached to the bill.  If waived in one chamber--either the House or the Senate, the second chamber may waive the fiscal note by a simple majority vote.  Additionally, any executive order by the Governor that relates **any aspect** of local government or **any service** shall not be issued unless a fiscal note has been prepared.
 
 KRS 6.965 gives the director of the Legislative Research Commission the discretion to decide whether a bill or executive order is a state mandate and permits the director to seek a finding from the Attorney General on the issue.  Any bill that is amended requires that fiscal note be updated to account for the change.
-
-KRS 13.
 
 ### Kentucky House Rules
 
@@ -68,8 +74,6 @@ Finally, "[m]embers may require, by majority vote, that a fiscal statement be at
 ## Fiscal Notes in Kentucky Agencies
 
 Fiscal notes are also required upon the promulgation of an administrative regulation and must consider the cost to state and local government.  [KRS 13A.250](statutes/1984-04-13_krs_013A_250.pdf).  The proposed regulation must be accompanied by a "fiscal note."  The statute specifically identifies items that must be included:  (1) the number of the administrative regulation, (2) contact information, (3) the government subdivisions affected, (4) the service to which the regulation relates along with the legal authority  that mandates the service, (5) estimated fiscal impact for the **first full year**.  "If specific dollar estimates cannot be determined, the administrative body shall provide a brief narrative of the fiscal impact."
-
-<img src="img/2019-02-03_fiscal_note_example_01.png" alt="fiscal note example" width = 50% align = "middle">
 
 ## 50 State Comparison of Fiscal Notes
 
@@ -128,7 +132,7 @@ Fiscal notes are also required upon the promulgation of an administrative regula
 
 
 
-## Plot
+## Plot of Fiscal Note Best Practices to Fiscal Condition
 
 The table above was constructed from a publication authored by the [Center on Budget and Policy Priorities](https://www.cbpp.org) ("CBPP"). The organization published a [guide](resources/2015-11-24_cbpp_better_cost_estimates_table_2.pdf) entitled, "Better Cost Estimates, Better Budgets:  Improved Fiscal Notes Would Help States Make More Informed Decisions." The author listed five best practices in the use of fiscal notes:
 1. Prepare fiscal notes for all proposals;
@@ -172,18 +176,17 @@ Iowa follows 6 of 6 of the best practices; however, its enactment is by Senate a
 
 ### Oregon
 
-Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute](statutes/2016-04-01_oregon_173.025.pdf) provides that the "Legislative Fiscal Officer" shall prepare a "fiscal impact statement for each measure reported out of committee . . . that could have an effect on expenditures." The revenue impact statement must include three consecutive biennia, beginning with the current one.  Another statute provides greater detail for bills that create a new crime or change penalties.  A criminal justice bill would require costs to be projected over 10 years.  
-
-
-
-
-
-
-
-
-
-
-
-
+Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute](statutes/2016-04-01_oregon_173.025.pdf) provides that the "Legislative Fiscal Officer" shall prepare a "fiscal impact statement for each measure reported out of committee . . . that could have an effect on expenditures." The revenue impact statement must include three consecutive biennia, beginning with the current one.  Another statute provides greater detail for bills that create a new crime or change penalties.  A criminal justice bill would require costs to be projected over 10 years.
 
 ## Helpful Resources
+|                                        |                                                                             |                                 |
+|----------------------------------------|-----------------------------------------------------------------------------|---------------------------------|
+| organization                           | url                                                                         | summary                         |
+| Center for Budget & Policy Priorities  | https://www.cbpp.org                                                        | Tax analysis.                   |
+| Congressional Budget Office            | https://www.cbo.gov                                                         | Congressional "Fiscal Notes".   |
+| CBPP Better Cost Estimates             | resources/2015-11-24_cbpp_better_cost_estimates.pdf                         | Best practices in fiscal notes. |
+| Improving CBO Cost Estimates           | resources/2018-01-01_fifteen_ways_improve_cbo_cost_estimates.pdf            | Improve CBO Cost Estimates.     |
+| Public Budgeting Systems, 8th Ed.      | https://amzn.to/2NSuqmm                                                     | Textbook on public budgeting.   |
+| Phillip Joyce                          | https://www.publicpolicy.umd.edu/faculty/philip-joyce                       | Expert in public budgeting.     |
+| NCSL Understanding Fiscal Notes        | resources/2014-07-01_ncsl_fiscal_notes_final.pdf                            | Powerpoint presentation.        |
+| National Assoc. of Leg. Fiscal Offices | http://www.ncsl.org/legislators-staff/legislative-staff/fiscal-offices.aspx | Association.                    |
