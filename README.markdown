@@ -187,6 +187,6 @@ Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute
 | Improving CBO Cost Estimates              | https://bit.ly/2TL5umo                                                      | Improve CBO Cost Estimates.     |
 | Public Budgeting Systems, 8th Ed.         | https://amzn.to/2NSuqmm                                                     | Textbook on public budgeting.   |
 | Phillip Joyce                             | https://www.publicpolicy.umd.edu/faculty/philip-joyce                       | Expert in public budgeting.     |
-| NCSL Understanding Fiscal Notes           | resources/2014-07-01_ncsl_fiscal_notes_final.pdf                            | Powerpoint presentation.        |
+| NCSL Understanding Fiscal Notes           | https://bit.ly/2TtBqwd                                                      | Powerpoint presentation.        |
 | National Assoc. of Leg. Fiscal Offices    | http://www.ncsl.org/legislators-staff/legislative-staff/fiscal-offices.aspx | Association.                    |
 | Fiscal Note Process in State Legislatures | https://bit.ly/2F2qk8r                                                      | Survey.                         |
