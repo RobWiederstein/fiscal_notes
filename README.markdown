@@ -1,5 +1,5 @@
 ![CBO Cost Benefit Search](img/2019-03-10_cbo_cost_benefit.png)
-[CBO Cost Estimate Data Base](https://www.cbo.gov/cost-estimates)
+[CBO Cost Estimate Database](https://www.cbo.gov/cost-estimates)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
