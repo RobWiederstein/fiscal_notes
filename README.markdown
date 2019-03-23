@@ -174,7 +174,7 @@ Iowa follows 6 of 6 of the best practices; however, its enactment is by Senate a
 
 ### Oregon
 
-Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute](statutes/2016-04-01_oregon_173.025.pdf) provides that the "Legislative Fiscal Officer" shall prepare a "fiscal impact statement for each measure reported out of committee . . . that could have an effect on expenditures." The revenue impact statement must include three consecutive biennia, beginning with the current one.  Another statute provides greater detail for bills that create a new crime or change penalties.  A criminal justice bill would require costs to be projected over 10 years. A sample Oregon fiscal note is included [here](fiscal_note/fiscal_note_examples/2019-03-15_oregon_fiscal_note_example.pdf)
+Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute](statutes/2016-04-01_oregon_173.025.pdf) provides that the "Legislative Fiscal Officer" shall prepare a "fiscal impact statement for each measure reported out of committee . . . that could have an effect on expenditures." The revenue impact statement must include three consecutive biennia, beginning with the current one.  Another statute provides greater detail for bills that create a new crime or change penalties.  A criminal justice bill would require costs to be projected over 10 years. A sample Oregon fiscal note is included [here](fiscal_note/fiscal_note_examples/2019-03-15_oregon_fiscal_note_example.pdf).
 
 ## Helpful Resources
 | organization                              | url                                                                         | summary                         |
