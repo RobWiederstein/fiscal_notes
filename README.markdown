@@ -24,9 +24,9 @@
 
 # Fiscal Notes
 
-Fiscal notes are cost estimates of pending bills  in state legislatures.  For some legislators, they can be a critical component of whether the bill should be adopted.  In Kentucky, fiscal notes are prepared by the Legislative Research Commission (LRC) whereas they are prepared by the Congressional Budget Office (CBO) at the federal level.  An extensive [analysis](fiscal_note/resources/2015-11-24_cbpp_better_cost_estimates.pdf) of fiscal notes was undertaken by the Center for Budget and Policy Priorities (CBPP) where they identified six criteria as "best practices."
+Fiscal notes are cost estimates of pending bills  in state legislatures.  For some legislators, they can be a critical component of whether the bill should be adopted.  In Kentucky, fiscal notes are prepared by the Legislative Research Commission (LRC), whereas they are prepared by the Congressional Budget Office (CBO) at the federal level.  An extensive [analysis](fiscal_note/resources/2015-11-24_cbpp_better_cost_estimates.pdf) of fiscal notes was undertaken by the Center for Budget and Policy Priorities (CBPP) where they identified six criteria as "best practices."
 
-The best practices were identified as
+States that were identified as having best practices do the following:
 1. Prepare fiscal notes for substantially all proposals (38 states + D.C.);
 2. Free estimates from partisan pressure (33 states + D.C.);
 3. Project long term impact (12 states + D.C.);
@@ -37,9 +37,9 @@ The goal of this writeup is identify whether Kentucky follows these best practic
 
 ## Terminology
 
-Kentucky law includes multiple terms when describing the economic impact of legislative and agency actions with the most common being "fiscal note" but there are others used as well like "cost analysis", "cost estimate", "fiscal impact statement", and "economic impact statement". The terms are not interchangeable and can have very specific meanings.  Below is a list of the different analysis undertaken to determine the an initiative's economic impact to the Commonwealth of Kentucky
+Kentucky law includes multiple terms when describing the economic impact of legislative and agency actions.  The most common term is "fiscal note", but there are others used as well like "cost analysis", "cost estimate", "fiscal impact statement", and "economic impact statement". The terms are not interchangeable and can have very specific meanings.  Below is a list of the different analyses undertaken to determine an initiative's economic impact to the Commonwealth of Kentucky
 
-- "Fiscal Statements".   Pursuant to House and Senate Rules, the staff of the Legislative Research Commission prepare fiscal statements that describe the financial implications of particular bills if such legislation were to be enacted. Fiscal statements consist of certain components that are prepared as necessary depending upon the subject matter and scope of the legislation. The components of fiscal statements are described below.
+- "Fiscal Statements".   Pursuant to House and Senate Rules, the LRC staff prepare fiscal statements that describe the financial implications of particular bills if such legislation were to be enacted. Fiscal statements consist of certain components that are prepared as necessary depending upon the subject matter and scope of the legislation. The components of fiscal statements are described below.
 
 - "Fiscal Notes" describe how legislation affects the revenues or expenditures of state government generally. Fiscal notes are prepared upon (1) the request of the sponsor of a bill, (2) the request of the chair of the standing committee to which the bill is referred, or (3) the request of that committee by vote. Fiscal Notes are requested through the Office of Budget Review.
 
