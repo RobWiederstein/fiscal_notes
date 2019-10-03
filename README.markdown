@@ -189,3 +189,7 @@ Oregon is perfect in best practices as well, scoring 6 for 6.  Oregon's [statute
 | National Assoc. of Leg. Fiscal Offices    | http://www.ncsl.org/legislators-staff/legislative-staff/fiscal-offices.aspx | Association.                    |
 | Fiscal Note Process in State Legislatures | https://bit.ly/2F2qk8r                                                      | Survey.                         |
 # Bill Limits
+
+National Conference of State Legislatures maintains a state-by-state comparison of [bill limits](http://www.ncsl.org/research/about-state-legislatures/limiting-bill-introductions.aspx). According to their website, there are 109,000 bill introductions each year and sessions last an average of 120 days.  The NCSL site says that "the ability to consider a large volume of bills is not necessarily compatible with restricted session time." Kentucky passed a house concurrent resolution 54 in 2000 to study the adoption of bill limits, but efforts to locate a report from the committee were unsucessful.  If Kentucky legislators were limited to three bills in the short session, the number of bills anticipated would be three times the membership of 138 for a total of 414, excluding additional bills for leadership and repealer bills filed by the membership.  For long sessions, the anticipated total would be five times the membership of 138 for a total of 690.
+
+![KY General Assembly Total Bills 2011-2018](img/ky_general_assembly_total_bills_2011_2018.jpeg)
